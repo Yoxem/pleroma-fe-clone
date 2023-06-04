@@ -10,7 +10,7 @@
         "is_replaced_by": "→"
       },
       "mrf_policies": "啟用 ê MRF 政策",
-      "mrf_policies_desc": "MRF 政策 policies 操作本站 ê 對外通信行為。以下ê政策啟用 ah：",
+      "mrf_policies_desc": "MRF 政策操作本站 ê 對外通信行為。以下ê政策啟用 ah：",
       "simple": {
         "simple_policies": "站臺特有 ê 政策",
         "instance": "站",
