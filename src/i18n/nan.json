@@ -116,17 +116,17 @@
     "flash_sepcurity": "注意 tse 可能有危險，因為 Flash 內容猶原是任意 ê 程式碼。",
     "flash_fail": "載入 flash 內容失敗，詳細會當看控制臺。",
     "scope_in_timeline": {
-      "direct": "direct",
-      "private": "Followers-only",
-      "public": "Public",
-      "unlisted": "Unlisted"
+      "direct": "私人 phue",
+      "private": "干焦 hōo 綴 lí ê 看",
+      "public": "公開佇公共時間線",
+      "unlisted": "無愛公開佇公共時間線"
     }
   },
   "image_cropper": {
-    "crop_picture": "Crop picture",
-    "save": "Save",
-    "save_without_cropping": "Save without cropping",
-    "cancel": "Cancel"
+    "crop_picture": "裁相片",
+    "save": "儲存",
+    "save_without_cropping": "無裁就儲存",
+    "cancel": "取消"
   },
   "importer": {
     "submit": "Submit",
