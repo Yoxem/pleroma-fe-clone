@@ -285,16 +285,16 @@
     "empty_status_error": "無法度 PO 無檔案 koh 空 ê 狀態。",
     "media_description_error": "更新媒體失敗，請 koh 試一 kái。",
     "scope_notice": {
-      "public": "This post will be visible to everyone",
-      "private": "This post will be visible to your followers only",
-      "unlisted": "This post will not be visible in Public Timeline and The Whole Known Network"
+      "public": "Tsit ê PO 文通予逐 ê 儂看著。",
+      "private": "Tsit ê PO 文 kan-ta 予綴 lí ê 看著。",
+      "unlisted": "Tsit ê PO 文 buē 公開 tī 公共時間線 kap 知影 ê 網路。"
     },
-    "scope_notice_dismiss": "Close this notice",
+    "scope_notice_dismiss": "關掉 tsit ê 通知",
     "scope": {
-      "direct": "Direct - post to mentioned users only",
-      "private": "Followers-only - post to followers only",
-      "public": "Public - post to public timelines",
-      "unlisted": "Unlisted - do not post to public timelines"
+      "direct": "私人 phue - PO 文干焦予提起 ê 用者看著",
+      "private": "限定綴 ê 儂 - PO 文干焦予綴 lí ê 儂看著",
+      "public": "公開 - PO kàu 公開時間線",
+      "unlisted": "Mài 列出來 - Mài PO tī 公開時間線。"
     }
   },
   "registration": {
@@ -310,7 +310,7 @@
     "username_placeholder": "e.g. lain",
     "fullname_placeholder": "e.g. 岩倉 Lain",
     "bio_placeholder": "e.g.\nLí 好，我是 Lain。我是日本動畫 ê 角色，tuà tī 日本 ê 郊區。Lí 凡勢 bat tī Wired 知影我。",
-    "reason": "註冊ê理由",
+    "reason": "註冊 ê 理由",
     "reason_placeholder": "本站靠人工審核註冊。\n介紹管理者 lí beh tī tsia 註冊 ê 理由。",
     "register": "註冊",
     "validations": {
@@ -350,11 +350,11 @@
     "remove_language": "Ni 掉",
     "primary_language": "主要語言：",
     "fallback_language": "備用語言 {index}：",
-    "app_name": "App name",
-    "expert_mode": "Show advanced",
-    "save": "Save changes",
-    "security": "Security",
-    "setting_changed": "Setting is different from default",
+    "app_name": "App ê 名",
+    "expert_mode": "進階模式",
+    "save": "保存改變",
+    "security": "安全",
+    "setting_changed": "設定 kap 預先 ê 有 tsing 差",
     "setting_server_side": "This setting is tied to your profile and affects all sessions and clients",
     "enter_current_password_to_confirm": "Enter your current password to confirm your identity",
     "post_look_feel": "Posts Look & Feel",
@@ -1161,10 +1161,10 @@
   },
   "upload": {
     "error": {
-      "base": "Upload failed.",
-      "message": "Upload failed: {0}",
-      "file_too_big": "File too big [{filesize}{filesizeunit} / {allowedsize}{allowedsizeunit}]",
-      "default": "Try again later"
+      "base": "上傳 ê 時失敗。",
+      "message": "傳 buē 起去：{0}",
+      "file_too_big": "檔案 sài-suh 傷大 [{filesize}{filesizeunit} / {allowedsize}{allowedsizeunit}]",
+      "default": "Koh 試一 kái。"
     },
     "file_size_units": {
       "B": "B",
@@ -1175,77 +1175,77 @@
     }
   },
   "search": {
-    "people": "People",
-    "hashtags": "Hashtags",
-    "person_talking": "{count} person talking",
-    "people_talking": "{count} people talking",
-    "no_results": "No results",
-    "no_more_results": "No more results",
-    "load_more": "Load more results"
+    "people": "用戶",
+    "hashtags": "主題標籤",
+    "person_talking": "{count} ê leh 論",
+    "people_talking": "{count} ê leh 論",
+    "no_results": "無半 ê 結果",
+    "no_more_results": "無其他 ê 結果",
+    "load_more": "載入 koh 較 tsē 結果"
   },
   "password_reset": {
-    "forgot_password": "Forgot password?",
-    "password_reset": "Password reset",
-    "instruction": "Enter your email address or username. We will send you a link to reset your password.",
-    "placeholder": "Your email or username",
-    "check_email": "Check your email for a link to reset your password.",
-    "return_home": "Return to the home page",
-    "too_many_requests": "You have reached the limit of attempts, try again later.",
-    "password_reset_disabled": "Password reset is disabled. Please contact your instance administrator.",
-    "password_reset_required": "You must reset your password to log in.",
-    "password_reset_required_but_mailer_is_disabled": "You must reset your password, but password reset is disabled. Please contact your instance administrator."
+    "forgot_password": "Buē 記得密碼？",
+    "password_reset": "重頭設密碼",
+    "instruction": "拍 lí ê email 地址 iah 是用者 ê 名。Guán 會送 lí 連結，重頭設定密碼。",
+    "placeholder": "Lí ê email 地址 iah 是用者 ê 名。",
+    "check_email": "檢查電子 phue 箱，看有重頭設密碼 ê 連結無。",
+    "return_home": "轉來頭頁",
+    "too_many_requests": "Lí kā 請求 ê khòo-tah 用了 ah。等一時仔，閣試一 pái。",
+    "password_reset_disabled": "密碼重頭設定無開放。請聯絡本站 ê 行政員。",
+    "password_reset_required": "Beh 登入，著重頭設 lí ê 密碼。",
+    "password_reset_required_but_mailer_is_disabled": "Lí 需要重頭設密碼，毋 koh tsia 無開放密碼 koh 再設定。請聯絡本站 ê 行政員。"
   },
   "chats": {
-    "you": "You:",
-    "message_user": "Message {nickname}",
-    "delete": "Delete",
-    "chats": "Chats",
-    "new": "New Chat",
-    "empty_message_error": "Cannot post empty message",
-    "more": "More",
-    "delete_confirm": "Do you really want to delete this message?",
-    "error_loading_chat": "Something went wrong when loading the chat.",
-    "error_sending_message": "Something went wrong when sending the message.",
-    "empty_chat_list_placeholder": "You don't have any chats yet. Start a new chat!"
+    "you": "Lí：",
+    "message_user": "傳私人 phue：{nickname}",
+    "delete": "Thâi 掉",
+    "chats": "開講",
+    "new": "發起開講",
+    "empty_message_error": "無法度 PO 空 ê phue",
+    "more": "Koh較濟……",
+    "delete_confirm": "Lí 敢真 ê beh thâi tsit 張 phue？",
+    "error_loading_chat": "載入開講 ê 時，出箠 ah。",
+    "error_sending_message": "送 phue ê 時，出箠 ah。",
+    "empty_chat_list_placeholder": "Lí 猶無佇 tsia 開講過，來開講 lah！"
   },
   "lists": {
-    "lists": "Lists",
-    "new": "New List",
-    "title": "List title",
-    "search": "Search users",
-    "create": "Create",
-    "save": "Save changes",
-    "delete": "Delete list",
-    "following_only": "Limit to Following",
-    "manage_lists": "Manage lists",
-    "manage_members": "Manage list members",
-    "add_members": "Search for more users",
-    "remove_from_list": "Remove from list",
-    "add_to_list": "Add to list",
-    "is_in_list": "Already in list",
-    "editing_list": "Editing list {listTitle}",
-    "creating_list": "Creating new list",
-    "update_title": "Save Title",
-    "really_delete": "Really delete list?",
-    "error": "Error manipulating lists: {0}"
+    "lists": "列單",
+    "new": "新 ê 列單",
+    "title": "列單標題",
+    "search": "Tshuē 用者",
+    "create": "開新 ê",
+    "save": "保存改變",
+    "delete": "刣列單",
+    "following_only": "限定 lí 所關注 ê",
+    "manage_lists": "管理列單",
+    "manage_members": "管理列單成員",
+    "add_members": "Tshiau 閣較 tsē ê 用者",
+    "remove_from_list": "對列單刣掉",
+    "add_to_list": "加入去列單",
+    "is_in_list": "列單已經有 ah ",
+    "editing_list": "編輯列單 {listTitle}",
+    "creating_list": "開新 ê 列單",
+    "update_title": "保存標題",
+    "really_delete": "敢真正 beh 刣掉列單？",
+    "error": "操作列單 ê 時陣出重耽：{0}"
   },
   "file_type": {
-    "audio": "Audio",
-    "video": "Video",
-    "image": "Image",
-    "file": "File"
+    "audio": "音訊",
+    "video": "影片",
+    "image": "影像",
+    "file": "檔案"
   },
   "display_date": {
-    "today": "Today"
+    "today": "今 á 日"
   },
   "update": {
-    "big_update_title": "Please bear with us",
-    "big_update_content": "We haven't had a release in a while, so things might look and feel different than what you're used to.",
-    "update_bugs": "Please report any issues and bugs on {pleromaGitlab}, as we have changed a lot, and although we test thoroughly and use development versions ourselves, we may have missed some things. We welcome your feedback and suggestions on issues you might encounter, or how to improve Pleroma and Pleroma-FE.",
+    "big_update_title": "敬請體諒",
+    "big_update_content": "因為 guán 有一站 á 無發行新版本，所以這个版本會 kap lí 以早慣 sì ê 無仝。",
+    "update_bugs": "請佇 {pleromaGitlab} 報告任何問題 kap bug，因為 Pleroma 改變真 tsē。雖罔 guán 徹底 leh 試，mā 家 kī 用開發版，伊凡勢有一寡重耽。Guán 歡迎 lín 提供關係所拄著 ê 問題 ê 意見、建議，或者是改進 Pleroma kap Pleroma-FE ê 法度。",
     "update_bugs_gitlab": "Pleroma GitLab",
-    "update_changelog": "For more details on what's changed, see {theFullChangelog}.",
-    "update_changelog_here": "the full changelog",
-    "art_by": "Art by {linkToArtist}"
+    "update_changelog": "Nā beh 知影改變 ê 詳細，請看：{theFullChangelog}.",
+    "update_changelog_here": "Kui ê 改變日誌",
+    "art_by": "美編：{linkToArtist}"
   },
   "unicode_domain_indicator": {
     "tooltip": "這 ê 域名包含毋是 ascii ê 字元。"
